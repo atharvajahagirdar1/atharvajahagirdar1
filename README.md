@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @atharvajahagirdar1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @atharvajahagirdar1  
+- 👀 I’m interested in building impactful software solutions, full-stack development, AI/ML, and open source.  
+- 🌱 I’m currently learning C++, DSA, React.js, Firebase, and exploring cloud & system design.  
+- 💞️ I’m looking to collaborate on real-world projects, hackathons (like SIH), and open source tools.  
+- 📫 How to reach me: atharvajahagirdar1@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I build cool UI for fun and believe coffee + code = ❤️  
 
 <!---
 atharvajahagirdar1/atharvajahagirdar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,21 +12,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Atharva Jahagirdar</h1>
-<h3 align="center">💻 CSIT Student | 🛠️ Full Stack Dev | 🚀 SIH Enthusiast</h3>
+<h3 align="center">💻 CSIT Student | 🛠️ Full Stack Dev | 🚀 SIH Enthusiast | 💡 Problem Solver</h3>
 
 ---
 
 🌟 **About Me**
-- 🔭 Currently working on a **Hospital Management System** (SIH project)
-- 🌱 Learning **C++, DSA, React, Firebase**
-- 👯 Looking to collaborate on **Open Source** & **Hackathons**
-- 💬 Ask me about `Web Dev`, `AI/ML`, `Cloud`
-- 📫 Reach me at: `your_email@example.com`
-- ⚡ Fun fact: I love building cool UIs and coffee keeps me coding ☕
+- 🔭 Working on a **Smart India Hackathon** project: Hospital Management Web & Mobile App.
+- 🌱 Currently mastering **C++, DSA, React.js, Firebase**, and **AI-based Chatbots**.
+- 👯 Love collaborating on **Open Source**, **Hackathons**, and impactful tech projects.
+- 💬 Ask me about `Frontend Dev`, `System Design`, `APIs`, and `Hospital Tech Solutions`.
+- 📫 Reach me at: `atharvajahagirdar1@gmail.com`
+- ⚡ Fun fact: I debug with music on loop and design interfaces pixel by pixel 🎧🎨
 
 ---
 
-🧰 **Languages and Tools**
+🧰 **Languages and Tools I Use**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
 ---
@@ -41,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvajahagirdar1&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvajahagirdar1&theme=radical" width="400"/>
 </p>
 
 ---
@@ -50,10 +52,10 @@ You can click the Preview link to take a look at your changes.
 📫 **Connect with Me**
 
 <p>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/atharvajahagirdar1/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:atharvajahagirdar1@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
 </p>
