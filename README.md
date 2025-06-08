@@ -41,7 +41,7 @@
 📫 **Connect with Me**
 
 <p>
-  <a href="https://www.linkedin.com/in/atharvajahagirdar1/" target="_blank">
+  <a href="www.linkedin.com/in/atharvajahagirdar/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atharvajahagirdar1@gmail.com">
