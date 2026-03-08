@@ -9,15 +9,16 @@
 ## 🚀 About Me
 
 * 💻 CSIT Student passionate about **Full Stack Development**
-* 🌱 Currently learning **DSA, React, Flutter, Firebase, and System Design**
-* 🔭 Working on **real-world projects and open source**
-* 💬 Ask me about **Frontend Development, APIs, and Productive Coding**
-* 📫 Reach me at **[atharvajahagirdar1@gmail.com](mailto:atharvajahagirdar1@gmail.com)**
+* 🌱 Currently learning **C++, Java, DSA, React, Flutter, Firebase**
+* 🔭 Building **real-world projects**
+* 👯 Open to **collaborations and hackathons**
+* 💬 Ask me about **Frontend Development, APIs, and System Design**
+* 📫 Email: **[atharvajahagirdar1@gmail.com](mailto:atharvajahagirdar1@gmail.com)**
 * ⚡ Fun fact: *I debug with music on loop 🎧*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -36,8 +37,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atharvajahagirdar1&show_icons=true&theme=radical" width="400"/>
-<img src="https://streak-stats.demolab.com?user=atharvajahagirdar1&theme=radical" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=atharvajahagirdar1&show_icons=true&theme=radical&count_private=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=atharvajahagirdar1&theme=radical" height="170"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajahagirdar1&layout=compact&theme=radical"/>
+
 </p>
 
 ---
@@ -50,9 +64,18 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=atharvajahagirdar1&theme=radical&no-frame=true&row=1"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
+
 <a href="https://www.linkedin.com/in/atharvajahagirdar">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
@@ -60,8 +83,15 @@
 <a href="mailto:atharvajahagirdar1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-⭐ *From [Atharva Jahagirdar](https://github.com/atharvajahagirdar1)*
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=atharvajahagirdar1&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+⭐ From [Atharva Jahagirdar](https://github.com/atharvajahagirdar1)
