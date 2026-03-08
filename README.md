@@ -13,7 +13,7 @@
 * 🔭 Working on **real-world projects and open source**
 * 💬 Ask me about **Frontend Development, APIs, and Productive Coding**
 * 📫 Reach me at **[atharvajahagirdar1@gmail.com](mailto:atharvajahagirdar1@gmail.com)**
-* ⚡ Fun fact: *I debug with music on loop 🎧*
+* ⚡ Fun fact: I speak Fluent Flutter, Java, and Sarcasm. 💬*
 
 ---
 
