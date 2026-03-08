@@ -41,14 +41,15 @@
 </p>
 
 ---
-
+<!--
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvajahagirdar1&theme=react-dark"/>
-</p>
+ <p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvajahagirdar1&theme=react-dark"/>
+ </p>
 
 ---
+-->
 
 ## 🌐 Connect With Me
 
